@@ -1,0 +1,16 @@
+.carousel-item>img{
+
+   width:100%;
+   height:30rem;
+   opacity: 0.6;
+    
+   
+}
+
+.carousel-caption > h5{
+
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color:white;
+    text-shadow: 2px 2px 5px black;
+}
