@@ -1,0 +1,82 @@
+.footer{
+
+    background-color: #037582;
+    height:20rem;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.footer-img>img{
+
+    width:80%;
+    height:90%;
+    padding: 10px;
+    margin-left: 20px;
+
+}
+.footer-info{
+
+    color:white;
+    
+
+}
+
+.footer-info>h1,.footer-links>h1{
+
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    color:white;
+}
+
+.footer-info,.email,.address,.contact{
+
+    font-weight: bold;
+
+}
+
+.btn{
+
+    outline: none;
+}
+
+.btn-social{
+
+    color:white;
+    font-size: 40px;
+    
+
+}
+
+.links{
+
+    display: flex;
+    flex-direction: column;
+    margin-top:20px;
+
+}
+
+.links>a{
+
+    text-decoration: none;
+    color:white;
+    margin-top: 10px;
+    font-weight: bold;
+    
+
+}
+
+.fa-solid{
+
+    margin-right: 20px;
+
+}
+
+.copyright p{
+
+    letter-spacing: 3px;
+    font-weight: bold;
+    position: sticky;
+
+}

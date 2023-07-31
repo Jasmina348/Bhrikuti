@@ -1,0 +1,50 @@
+
+.navigation_main{
+
+
+    position:sticky;
+}
+
+.navigation_main a {
+    
+    text-transform: uppercase;
+    font-weight: bold;
+
+    
+}
+
+
+.nav-item a{
+    color:#FF8C00;
+  }
+
+
+
+
+.nav-item a:hover {
+    color:#FF5F15;
+    border-bottom: 2px solid #FF5F15;
+    
+    
+}
+
+.nav-item{
+    
+    min-width:8em;
+    color:red;
+
+}
+
+.brandName{
+
+    font-weight: bold;
+    letter-spacing: 4px;
+
+}
+
+#NavDropdown{
+
+    background:#037582;
+}
+
+  
